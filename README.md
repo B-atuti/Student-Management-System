@@ -50,9 +50,9 @@ The Minimum Viable Product (MVP) of the Student Management System includes the f
 
 To get started with the Student Management System, follow these steps:
 
-1. Clone the repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Initialize the database by running `python initialize_database.py`.
+1. Clone the repository to your local machine. `git clone 
+2. Install the required dependencies using `pipenv install`.
+3. Initialize the database by running `python database.py`.
 
 ## Usage
 
