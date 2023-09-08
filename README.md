@@ -52,7 +52,7 @@ To get started with the Student Management System, follow these steps:
 
 1. Clone the repository to your local machine. `git clone 
 2. Install the required dependencies using `pipenv install`.
-3. Initialize the database by running `python database.py`.
+3. Initialize the database by running `python3 database.py`.
 
 ## Usage
 
