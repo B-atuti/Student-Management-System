@@ -9,7 +9,6 @@ class TestDatabaseOperations(unittest.TestCase):
         session.add(student)
         session.commit()
 
-        # Check if the student was inserted correctly
         retrieved_student = session.query(Student).filter_by(name="John Doe").first()
         self.assertIsNotNone(retrieved_student)
         self.assertEqual(retrieved_student.contact_info, "john@example.com")

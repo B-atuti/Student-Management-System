@@ -8,7 +8,6 @@ class TestCLIStudentManagement(unittest.TestCase):
 
     def test_add_student_command(self):
         result = self.runner.invoke(add_student, ["--name", "Alice", "--contact_info", "alice@example.com"])
-        self.assertEqual(result.exit_code, 0)  # Check if the command exits successfully
+        self.assertEqual(result.exit_code, 0)  
 
-        # Check if the command output contains a success message
         self.assertIn("Student Alice added successfully.", result.output)
