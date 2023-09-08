@@ -13,9 +13,6 @@
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Testing](#testing)
-- [Challenges Faced](#challenges-faced)
-- [Future Enhancements](#future-enhancements)
-- [Contributors](#contributors)
 - [License](#license)
 
 ## Project Overview
