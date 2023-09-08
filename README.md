@@ -2,7 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-[Project Description]: An efficient Command-Line-Interface (CLI) based Student Management System designed to streamline student data management and course administration in educational institutions.
+## Project Description
+ An efficient Command-Line-Interface (CLI) based Student Management System designed to streamline student data management and course administration in educational institutions.
 
 ## Table of Contents
 
