@@ -66,13 +66,15 @@ You can interact with the system using the following CLI commands:
 - `python main.py enroll_student`: Enroll a student in a course.
 - `python main.py student_report`: Generate a report of all students.
 
+
+
 ## Testing
 
 To run tests for the project, use the following command:
 
 ```shell
 pytest
-
+```
 ## Author & License
 
 Authored by:
@@ -82,3 +84,5 @@ Authored by:
 License
 
 MIT License
+
+
